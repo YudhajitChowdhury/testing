@@ -1,0 +1,3 @@
+get_yesterday <- function(){
+    return(sys.Date() -1)
+}
